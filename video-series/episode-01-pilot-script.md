@@ -69,7 +69,11 @@ Every fact in this script about the Staff Association comes from ADB's own page.
 
 ## Field Trip: "Does Anyone Know What We Do?" (2:50–4:20)
 
-*Exterior shots around the building: corridor, cafeteria, lobby. THE CHAIR walks up to colleagues with the phone.*
+*THE CHAIR stands up, grabs the back of the office chair, and looks at the camera.*
+
+**THE CHAIR:** Pull up a chair. *(Beat.)* Actually, bring it. We're going outside.
+
+*Quick cuts, about one every 6 seconds: THE CHAIR rolling the office chair down a corridor, into the lift, past the cafeteria. Then out into the building: corridor, cafeteria, lobby. THE CHAIR walks up to colleagues with the phone.*
 
 **THE CHAIR:** Quick question. What does the Staff Council do?
 
@@ -98,6 +102,10 @@ Every fact in this script about the Staff Association comes from ADB's own page.
 5. Staff welfare and connection
 6. Policy and governance
 
+**THE CHAIR:** If you don't believe me, here's the receipt.
+
+*On screen, side by side: a screenshot of the ADB Staff Association page on adb.org (left) and the six-item list (right). Hold for 3 seconds so viewers can check it themselves.*
+
 **THE CHAIR:** How to reach us: [inbox / intranet page].
 **THE CHAIR:** How to send a question for this show: [link or address].
 **THE CHAIR:** *(to the MISSION COLLEAGUE)* Your answer: [the real answer].
@@ -116,7 +124,9 @@ Every fact in this script about the Staff Association comes from ADB's own page.
 
 **THE CHAIR:** But what do I know. I only read the whole thing.
 
-*(Rolls out of frame on the chair.)*
+*(Rolls out of frame on the chair. Hold on the empty desk for a beat. The binder is still there.)*
+
+**OFF-CAMERA COLLEAGUE:** …Are we supposed to put this away?
 
 *End card, deadpan text:* **Update: [the colleague from the cold open] has now opened one Staff Council email.** *(Only use this if they agree. Otherwise, write a different true update from the shoot.)*
 

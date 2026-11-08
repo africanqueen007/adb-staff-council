@@ -45,6 +45,21 @@ I read the auto-generated transcripts of three of his Secrets Club videos ("Cost
 4. **The payload.** A fast, exact list: *"3 cups of warm water, 3 tbsp of yeast, 9 cups of flour…"* This is the useful part, the part people save and share.
 5. **The button.** A small, deadpan line to close: *"But like I said, what do I know."* Or simply *"Enjoy."*
 
+### 2.3a What the Camera Does (Scene Analysis)
+
+The transcripts miss the visuals, so I ran "Raising Canes Sauce Has Lemon" (1:19) through a scene-by-scene video analysis tool.[^scene] The camera work carries the structure:
+
+| Time | Shot | What it adds |
+|---|---|---|
+| 0:00–0:12 | Medium close-up, phone selfie in a brightly lit bathroom mirror. He holds up a small brown leather notebook and leans toward the lens on "Come here." | The ritual: same place, same prop, every time |
+| 0:12–0:51 | Tighter close-up while he tells the story. **He says "Come here" a second time** at about 0:29. | The camera moves closer as the story builds. The second "Come here" pulls drifting viewers back in. |
+| 0:51–1:03 | Lower angle. **Gold-rimmed glasses on**, reading the measurements from the open notebook. | A visual cue that the useful part has started |
+| 1:03–1:08 | Top-down shots of the ingredients being mixed: "Here's all the ingredients before I mix them… here's what it looks like after." | **Proof.** He does not just say it; he shows it. |
+| 1:08–1:13 | **Side-by-side:** his homemade sauce next to the restaurant's real one | The payoff. Viewers can judge for themselves. |
+| 1:13–1:19 | He tastes it at the kitchen counter, looks at the camera with a small, knowing smile: "But like I said, what do I know?" | The deadpan close |
+
+Two things I had missed from the transcript alone: **the proof beat** (he shows the thing next to the real one) and **the second "Come here"** used as a mid-video re-hook.
+
 ### 2.4 The Shorts Formula
 
 His recent Shorts follow a tighter pattern:[^yt]
@@ -53,9 +68,21 @@ His recent Shorts follow a tighter pattern:[^yt]
 - **Reveal:** shows the thing, with real enthusiasm (*"Oh my goodness"*).
 - **Deadpan tag:** *"Update: turns out you can't buy anything in the inconvenience store… Also, I lost my boat."*
 
+The scene analysis of "Inconvenience store" (19 seconds) shows how little it takes.[^scene] It is one handheld phone, natural light, with no set and no edit tricks. There is a close-up of him on a boat, then a wide shot of the floating store, then **a cut to him walking down a city street at night** for the "Update." The change of place and light tells you time has passed, so the deadpan tag lands without any explanation.
+
 ### 2.5 The Long-Form Formula (Closest to Your 5–10 Minutes)
 
 His 8-minute video "We don't have a name for the show yet" is a mockumentary about a cooking show going wrong.[^yt] What carries it is not the cooking. It is the crew talking back (*"Do we get producer money?"*), his honest self-mockery (*"sometimes you go through imposter syndrome"*), and the gap between how confident he acts and how things are going.
+
+The scene analysis of this video shows *how* it holds attention for 8 minutes:[^scene]
+
+- **Fast cutting.** The tool found 81 separate shots in about 7 minutes 57 seconds. That is 477 seconds ÷ 81 shots ≈ **one new shot every 6 seconds**.
+- **Short B-roll inserts.** Shots of 1–3 seconds (ingredients, a sizzling pan, water pouring) between talking moments, over a light acoustic music bed. They give the eye something new without stopping the story.
+- **Costume versus competence.** He wears a full white chef's coat and beanie while clearly not knowing what he is doing. The joke is the gap between the costume and the skill.
+- **A behind-the-scenes cold open.** It starts with "We're rolling!" and a quick montage before he walks in.
+- **The crew stays off camera until the climax.** They are heard for six minutes and only appear when they physically step in to help drain the pasta. That makes their entrance a payoff.
+- **A polished hero shot after the chaos.** A beautifully plated dish, lit softly, right after the mess. The contrast is the punchline.
+- **An abrupt exit.** "This isn't even my house. I'm leaving." The crew are left to clean up, then fade to black.
 
 ### 2.6 A Number Worth Knowing
 
@@ -87,6 +114,8 @@ What this means for you: keep the 5–10 minute episodes, but cut each one into 
 | President of the Fast Food Secrets Club | Belonging to a club | **Chair of The Fine Print Club.** Every staff member is already a member, just as they are already members of the Staff Association.[^sa] |
 | The summons | A real person's problem pulls you in | **The Summons:** each episode opens with a real (anonymized, with permission) question from a staff member |
 | Exact, rapid-fire recipe | Pure usefulness; people save it | **The Recipe:** exact dates, steps, eligibility, and the policy reference, on screen |
+| "If you don't believe me, I'll make it for you" + side-by-side with the real sauce | Proof builds trust; viewers check it themselves | **The Receipt:** "If you don't believe me, here's page [x]." Show the actual policy paragraph on screen **side by side** with your plain-language version. This is the strongest credibility device in the whole series. |
+| A second "Come here" mid-video | Re-hooks viewers who are drifting | A second **"Pull up a chair"** just before the field trip |
 | "Does that make sense?" | Checks understanding without talking down | **"Still with me?"** at each segment change |
 | "Update:" tag / "what do I know" | A comic release that makes it memorable | **"Update:"** end card + *"But what do I know. I only read the whole thing."* |
 | Crew talking back | Mockumentary texture for longer videos | **The Off-Camera Colleague:** asks the question staff are thinking ("So… does this affect me?") |
@@ -122,10 +151,18 @@ The four binder tabs use the four colors in the ADB Staff Association logo. Each
 | 0:40–0:50 | **Title sting** | Binder lands on the desk. *The Fine Print Club.* |
 | 0:50–2:00 | 🟧 **Orange tab: What changed** | The one-sentence version first. Then a before/after card. |
 | 2:00–3:00 | 🟨 **Yellow tab: Who it affects** | Which staff, where (headquarters, resident missions), and from when. "Still with me?" |
-| 3:00–5:00 | **Field trip** | The mockumentary part. You try to actually do the thing: fill in the form, find the page, ask the help desk. The Off-Camera Colleague comments. Colleagues cameo. |
-| 5:00–6:00 | 🟩 **Green tab: The Recipe** | Reading glasses on. Rapid-fire, exact steps and dates on screen, with the policy reference. |
+| 3:00–5:00 | **Field trip** | Open with a second "Pull up a chair" to re-hook. Then the mockumentary part: you try to actually do the thing (fill in the form, find the page, ask the help desk). The Off-Camera Colleague comments. Colleagues cameo. Change location and light so the field trip feels like a different place. |
+| 5:00–6:00 | 🟩 **Green tab: The Recipe + The Receipt** | Reading glasses on. Rapid-fire, exact steps and dates on screen. Then: "If you don't believe me, here's page [x]," with the actual policy paragraph shown side by side with your plain-language version. |
 | 6:00–6:40 | 🟦 **Blue tab: Where the Council stands** | What the Council raised, what is settled, what is still open, and how staff can give input. Plain and factual. |
 | 6:40–7:00 | **Button** | Glasses off. "But what do I know. I only read the whole thing." Roll out of frame. **"Update:"** card. Call to action: send a question, and it may become the next Summons. |
+
+**Pacing and look (from the scene analysis of his long-form video):**
+
+- **Cut often.** Aim for a new shot roughly every 6 seconds. Fill the gaps with 1–3 second inserts: a stamp hitting a form, a cursor on the intranet, the binder tabs, the building lobby.
+- **Dress for the role you are bad at.** In field-trip segments, wear a costume for the job you are trying out ("help desk officer for a day," with an oversized lanyard). The gap between costume and competence is the joke. The joke is always on you.
+- **The hero shot.** After the field-trip chaos, cut to one clean, softly lit shot of the finished result: the completed form, or a one-page summary card. That is your plated dish.
+- **Keep the Off-Camera Colleague off camera** until the one moment they have to step in and help you. Then it is a payoff.
+- **Exit abruptly.** Roll out of frame and leave the colleague holding the binder.
 
 **Short cut-downs (two or three per episode, 30–60 seconds, vertical):**
 
@@ -224,7 +261,9 @@ These matter more for you than for Jordan, because you are an elected representa
 
 **What I did:** I read the auto-generated YouTube transcripts of nine of Jordan Howlett's videos, his channel's video and Shorts lists with public view counts, and profiles in TIME, San Diego Magazine, Upworthy, and Wikipedia. ADB facts come from adb.org.
 
-**Limits:** I could not watch the videos, so the visual details come from press descriptions, not my own viewing. Auto-generated transcripts can contain errors. I did not analyze his TikTok or Instagram accounts directly. View counts change daily.
+I also ran three videos through Higgsfield's scene-by-scene video analysis tool, which watches a YouTube video and describes each shot, the camera, and the audio.[^scene]
+
+**Limits:** I did not watch the videos myself in real time. The visual details come from an AI scene analysis and from press descriptions. The scene descriptions are machine-generated and can be wrong in details. For example, they estimate his age as "early 30s," which I would not rely on. In one line of the long video, the scene tool heard "Method Man said I was a natural" while YouTube's transcript has "wasn't natural," so I have not quoted that line. Auto-generated transcripts can also contain errors. I did not analyze his TikTok or Instagram accounts directly. View counts change daily.
 
 [^sa]: ADB. ADB Staff Association. https://www.adb.org/work-with-us/careers/adb-staff-association (accessed 8 November 2026). Source for automatic membership, the 1978 founding, the Staff Council as executive body, and the six areas of work.
 [^about]: ADB. About ADB. https://www.adb.org/who-we-are/about (accessed 8 November 2026).
@@ -232,4 +271,5 @@ These matter more for you than for Jordan, because you are an elected representa
 [^time]: S. Carlin. 2025. Jordan Howlett: TIME100 Creators 2025. *TIME*. 9 July. https://time.com/collections/time100-creators-2025/7299139/jordan-howlett/
 [^sdmag]: M. Hoke. 2024. Who Is Jordan Howlett When the Camera Is Off? *San Diego Magazine*. 24 April. https://sandiegomagazine.com/features/jordan-howlett-tik-tok-influencer/
 [^upworthy]: T. Perry. 2025. TikTok Star Jordan the Stallion Shares New "Batman" Role and the Secret to His Addictive Videos. *Upworthy*. 19 March. https://www.upworthy.com/tiktok-star-jordan-the-stallion-shares-new-batman-role-and-the-secret-to-his-addictive-videos
+[^scene]: Scene-by-scene analyses generated on 8 November 2026 with the Higgsfield video analysis tool from the YouTube links for "Raising Canes Sauce Has Lemon" (https://www.youtube.com/watch?v=XY7kedjPA00), "Inconvenience store" (https://www.youtube.com/watch?v=p5ZYBRAy9t4), and "We don't have a name for the show yet" (https://www.youtube.com/watch?v=7l2kMQcGI-Q). Machine-generated descriptions, not verified frame by frame.
 [^yt]: Jordan Howlett. YouTube channel @jordan_the_stallion8. https://www.youtube.com/@jordan_the_stallion8 (video lists, view counts, and auto-generated transcripts accessed 8 November 2026). Transcripts read: "Costco secret menu," "Raising Canes Sauce Has Lemon," "Fast food worker found out where I lived," "We don't have a name for the show yet," "Welp @MoonLitterBox #cool," "Inconvenience store," "Restaurant with no servers," "Chocolate cake in Canada," and "Jordan is the CCO."
