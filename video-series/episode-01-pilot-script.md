@@ -1,6 +1,6 @@
 # The Fine Print Club, Episode 1: "Welcome to the Club"
 
-**Pilot script draft, about 6 minutes.** Shooting format: phone camera, one location, as few takes as possible.
+**Pilot script draft, about 7 minutes.** Shooting format: phone camera, one location, as few takes as possible.
 
 Every fact in this script about the Staff Association comes from ADB's own page.[^sa] Anything in **[square brackets]** is a placeholder for you to fill in. I have not invented details I cannot verify, such as the number of Council members or how staff reach you.
 
@@ -53,21 +53,43 @@ Every fact in this script about the Staff Association comes from ADB's own page.
 
 **THE CHAIR** *(to camera, unblinking)*: Still with me?
 
-## 🟨 Yellow Tab: "Who We Are" (1:50–2:50)
+## ⚡ The Chair Breaks It Down: "Association or Council?" (1:50–2:40)
 
-*Yellow tab.*
+*The tempo jumps. THE CHAIR appears in a small box in the lower-left corner, over your own footage of the headquarters lobby, corridors, and staff arriving for work.*
 
-**THE CHAIR:** The Staff Association is run by an executive body. That's the Staff Council. That's us. [Number] colleagues from [departments / resident missions; fill in].
+**THE CHAIR:** Staff Association. Staff Council. Same thing?
+
+*(Cut to full frame: THE CHAIR alone against a plain wall.)*
+
+**THE CHAIR:** Nope. The Chair breaks it down.
+
+*(Back to the corner box.)*
+
+**THE CHAIR:** Let's start with 1978. That's when the ADB Staff Association was set up, as the collective voice of all staff.
+
+*On screen, a simple diagram builds up: a big circle labeled "Staff Association = ALL staff." Inside it, a smaller circle labeled "Staff Council = the executive body that runs it." Arrows from the small circle point to two boxes: "committees" and "working groups."*
+
+**THE CHAIR:** The Association is everyone. The Council is the team that runs it, with committees and working groups behind it.
+
+*Full-screen card:* **ADB-to-English: "executive body" = the people who do the work.**
+
+**THE CHAIR** *(full frame, deadpan)*: So if the Association is the whole family… the Council is the one who actually answers the family group chat.
+
+## 🟨 Yellow Tab: "Who We Are" (2:40–3:20)
+
+*Yellow tab. The calm pace returns.*
+
+**THE CHAIR:** So who's on the Council? That's us. [Number] colleagues from [departments / resident missions; fill in].
 
 *(Text on screen: names and photos of Council members, if they agree.)*
 
-**THE CHAIR:** We're backed by committees and working groups. And our job, in one sentence: we stand up for the rights, interests, and welfare of staff, by talking with Management. Continuously.
+**THE CHAIR:** And our job, in one sentence: we stand up for the rights, interests, and welfare of staff, by talking with Management. Continuously.
 
 **OFF-CAMERA COLLEAGUE:** Continuously?
 
 **THE CHAIR:** *(Slowly turns the binder to show how thick it is.)*
 
-## Field Trip: "Does Anyone Know What We Do?" (2:50–4:20)
+## Field Trip: "Does Anyone Know What We Do?" (3:20–4:50)
 
 *THE CHAIR stands up, grabs the back of the office chair, and looks at the camera.*
 
@@ -89,7 +111,7 @@ Every fact in this script about the Staff Association comes from ADB's own page.
 
 **THE CHAIR** *(to camera)*: Great question. Hold that thought.
 
-## 🟩 Green Tab: The Recipe (4:20–5:10)
+## 🟩 Green Tab: The Recipe (4:50–5:40)
 
 *Reading glasses on. The pace picks up. Each line appears on screen as it is spoken.*
 
@@ -110,13 +132,15 @@ Every fact in this script about the Staff Association comes from ADB's own page.
 **THE CHAIR:** How to send a question for this show: [link or address].
 **THE CHAIR:** *(to the MISSION COLLEAGUE)* Your answer: [the real answer].
 
-## 🟦 Blue Tab: The Promise (5:10–5:40)
+## 🟦 Blue Tab: The Promise (5:40–6:10)
 
 *Glasses still on. Tone drops; this part is sincere.*
 
 **THE CHAIR:** Here's how this series works. Every time a policy changes, I'll tell you three things. What changed. What you need to do. And what the Council said about it. If we pushed back, I'll tell you. If it's still being discussed, I'll tell you that too.
 
-## Button (5:40–6:00)
+**THE CHAIR:** And then I'll ask what *you* think. Because that's literally the job.
+
+## Button + The Question (6:10–6:50)
 
 **THE CHAIR:** So that's the club. You were already in it.
 
@@ -130,6 +154,8 @@ Every fact in this script about the Staff Association comes from ADB's own page.
 
 *End card, deadpan text:* **Update: [the colleague from the cold open] has now opened one Staff Council email.** *(Only use this if they agree. Otherwise, write a different true update from the shoot.)*
 
+*Question card (the Unc-style close):* **So what do you think: should every policy change come with a video like this, or should we just send you the PDF?** [Link to answer.]
+
 *Final card: ADB Staff Association logo. "Send us your question. It might be next episode's Summons." [Link.]*
 
 ---
@@ -139,6 +165,7 @@ Every fact in this script about the Staff Association comes from ADB's own page.
 1. **"Relax. You're already in."** (30 seconds) The Orange-tab reveal on its own.
 2. **"What does the Staff Council do?"** (45 seconds) The best field-trip answers.
 3. **The Summons** (20 seconds) The cold open, ending with: "Full episode on [channel]."
+4. **"The Chair Breaks It Down: Association or Council?"** (60–90 seconds) The ⚡ segment on its own, ending with the question card.
 
 ## Before You Shoot: Checklist
 
