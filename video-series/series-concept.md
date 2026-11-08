@@ -225,6 +225,8 @@ Jordan's persona works because it is an amplified version of himself: "It really
 
 ## 5. Episode Format (About 7–8 Minutes)
 
+This is the **default** structure. Genre episodes (a musical, a heist, a game show) rearrange it but always keep five constants: the opening "Pull up a chair," the Binder, the Recipe and Receipt shown plainly, the closing question, and captions. See [episode-formats.md](episode-formats.md).
+
 The four binder tabs use the four colors in the ADB Staff Association logo. Each color is one segment, so viewers always know where they are. The ⚡ segment is the Unc-style breakdown: the one fast section in an otherwise calm episode.
 
 | Time | Segment | What happens |
@@ -292,6 +294,8 @@ The pilot introduces the club. After that, each episode covers one real policy c
 | 7 | Policy and governance | [Policy change] | "Follow the document": trace how a policy goes from draft to approval |
 | Bonus | All | **"The Ball Stops Here"**, inspired by the Unc's bureaucracy video: how many individual staff questions add up to one pattern the Council raises with Management | Only make this if it accurately describes how your Council works. Use a real, anonymized example. |
 
+**Genres:** each episode can use a different genre (musical, heist, game show, and so on). A suggested genre for each slot is in [episode-formats.md](episode-formats.md), Section 3.
+
 **Cadence:** one full episode when a significant change lands, plus the short cut-downs. If changes come faster than you can film, use a Short alone for minor ones.
 
 ---
@@ -349,11 +353,43 @@ These matter more for you than for Jordan, because you are an elected representa
 
 ## 11. Decisions for You
 
-1. **Title.** Recommended: *The Fine Print Club*. Alternatives: *Pull Up a Chair*, *Read It So You Don't Have To*, *Still With Me?*
-2. **Tone.** Calm Insider, Weary Translator, or Over-Prepared Superfan (Section 4).
-3. **Approval path.** Who needs to see episodes before they go out.
-4. **First real policy.** Which change to cover after the pilot.
-5. **How to mix the two styles.** Recommended: one blended episode with the ⚡ breakdown in the middle, plus the 2–3 minute breakdown as a companion Short. Alternative: alternate between full Fine Print Club episodes and stand-alone breakdowns.
+1. **Title.** See Section 12. Recommended: *Policy, But Make It…*
+2. **Genres.** Which formats to start with. See [episode-formats.md](episode-formats.md).
+3. **Tone.** Calm Insider, Weary Translator, or Over-Prepared Superfan (Section 4).
+4. **Approval path.** Who needs to see episodes before they go out.
+5. **First real policy.** Which change to cover after the pilot.
+6. **How to mix the two styles.** Recommended: one blended episode with the ⚡ breakdown in the middle, plus the 2–3 minute breakdown as a companion Short. Alternative: alternate between full Fine Print Club episodes and stand-alone breakdowns.
+
+---
+
+## 12. Title Options
+
+### Recommended: *Policy, But Make It…*
+
+Every episode finishes the title: *Policy, But Make It a Musical. Policy, But Make It a Heist. Policy, But Make It Breaking News.*
+
+- **The title is the promise.** Same policy facts, different genre every time. That is exactly what the series does (see [episode-formats.md](episode-formats.md)).
+- **Every episode title is its own hook.** Staff will click to see what genre it is this time.
+- **Plain words.** It works for non-native English speakers even if they don't know the internet phrase it comes from ("…but make it fashion").
+- **Not taken, as far as I could find.** A web search on 8 November 2026 found the phrase only in social media captions, not as the name of a series. That is not a trademark check.
+
+> **Tagline:** "Same facts. New genre. Every time."
+> **Catchphrases stay:** "Pull up a chair." / "The Chair breaks it down." / "But what do I know. I only read the whole thing."
+
+*The Fine Print Club* can stay as the in-show nickname for viewers ("Welcome back to the club"), or be retired.
+
+### The Shortlist
+
+| Title | Tagline | Why it works | Watch out |
+|---|---|---|---|
+| ***Policy, But Make It…*** | "Same facts. New genre. Every time." | Built for rotating genres; every episode title is a hook | A little long for a logo; shorten to *But Make It…* on thumbnails |
+| ***TL;DR with the Chair*** | "Too long; didn't read. Don't worry, I did." | Says the value in four characters | "TL;DR" is not universal; spell it out on screen |
+| ***Have a Seat*** | "We need to talk… about policy." | Chair pun plus the comic dread of "have a seat" | Can sound like bad news is coming |
+| ***A Seat at the Table*** | "Where your questions get answered." | Chair pun with real meaning: the Council gives staff a seat at the table | Warmer, but less funny |
+| ***Plot Twist: It's Policy*** | "You won't see this coming. Actually, you will: it's in the memo." | Fits movie-genre episodes | Works best if most episodes are film parodies |
+| ***The Fine Print Remix*** | "Same policy. New remix." | Keeps the current name, signals variety | Less of a surprise |
+| ***Spoiler Alert*** | "We read the ending so you don't have to." | Short and playful | Very common phrase; less distinctive |
+| ***Chair Force One*** | "Now boarding: your policy briefing." | The catchiest pun; the rolling chair becomes the aircraft | **I'd avoid it.** It is already used for a coffee stout, a car shop, and a podcast episode about a wheelchair user. In a disability context, the pun can read very differently. |
 
 ---
 
